@@ -12,10 +12,6 @@ The Black Hole M87 Simulation is a Python program that uses the Pygame library t
 - Simulation of light particles being bent by the gravitational pull of the black hole
 - Real-time rendering of the simulation using Pygame
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## References
 
 - Pygame: [https://www.pygame.org/](https://www.pygame.org/)
