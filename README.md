@@ -18,6 +18,4 @@ The Black Hole M87 Simulation is a Python program that uses the Pygame library t
 
 ## Simulation Video
 
-
-https://github.com/amishgog/Black_Hole_Simulation/assets/111068373/d09ee183-7ef0-49d1-97cd-51cbcda846d3
-
+https://github.com/amishgog/Black_Hole_Simulation/assets/111068373/76f90e7c-a5b0-4127-a6c4-53de85aa5b3d
